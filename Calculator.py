@@ -1,7 +1,7 @@
 #This is a tip calculator for Asanka Hotel
 print("Asanka Hotel")
 #Get the charge for the food from the user
-price = int(input("Price of food: $"))
+price = int(input("Please enter the price of the food: $"))
 #Converting the price variable to an integer variable.
 tip = 0.18
 salestax = 0.07
